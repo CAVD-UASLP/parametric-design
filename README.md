@@ -2,7 +2,8 @@
 El presente proyecto de investigación tiene como objetivo principal la exploración de los conceptos y métodos aplicados en el diseño paramétrico. Se centra en comprender cómo la parametrización puede transformar y optimizar el proceso de diseño en diversas disciplinas, abordando sus fundamentos teóricos, evolución histórica y su relación con la tecnología digital.
 
 <img src="img1.png" alt="" width="500">
----
+
+___
 
 ## Productos
 
